@@ -1,0 +1,15 @@
+{
+  "name": "desktop-whiteboard",
+  "version": "1.0.0",
+  "description": "A free canvas on your desktop powered by Javascript",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/hesan-aminiloo/desktop-whiteboard.git",
+  "author": "Hesan Aminiloo <hesan.aminiloo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^18.2.0"
+  }
+}
